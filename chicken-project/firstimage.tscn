@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://brr0mowoh0sjx"]
+
+[ext_resource type="Texture2D" uid="uid://irkq2etpeb4c" path="res://nightcatgreat.png" id="1_7nrws"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Nightcatgreat" type="Sprite2D" parent="."]
+position = Vector2(62707.1, -39143.1)
+scale = Vector2(991.545, 610.139)
+texture = ExtResource("1_7nrws")
